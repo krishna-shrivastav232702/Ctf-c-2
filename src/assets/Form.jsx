@@ -2,8 +2,8 @@ import React, { useEffect } from 'react';
 
 const FormPage = () => {
   useEffect(() => {
-    console.log("Paste the below sentence in the first input field")
-    console.log('Challenge 2 first part has been solved!');
+    console.log("Copy the sentence below and paste it into the first input field on the CodeSprint website")
+    console.log('First part of Challenge 2 solved');
   }, []);
 
   return (
