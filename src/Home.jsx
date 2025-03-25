@@ -18,7 +18,7 @@ const Home = () => {
       height: '100vh',
       backgroundColor: 'white',
       margin: 0,
-      fontFamily: 'Arial, sans-serif'
+      fontFamily: 'Arial, sans-serif '
     }}>
       <h1 style={{color: '#333'}}></h1>
     </div>
