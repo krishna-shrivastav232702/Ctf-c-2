@@ -7,7 +7,7 @@ const Home = () => {
   useEffect(() => {
     setTimeout(() => {
       history.push('/form');
-    }, 120000); 
+    }, 40000); 
   }, [history]);
 
   return (

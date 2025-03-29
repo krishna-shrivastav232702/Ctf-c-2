@@ -69,7 +69,7 @@ const FormPage = () => {
           color: '#7f8c8d',
           fontSize: '1rem'
         }}>
-          Press Ctrl+Shift+J (Windows/Linux) or Cmd+Option+J (Mac) to open developer tools
+          Press Ctrl+Shift+I (Windows/Linux) or Cmd+Option+I (Mac) to open developer tools
         </p>
       </div>
       <style>{`
